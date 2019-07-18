@@ -1,6 +1,8 @@
 {
   "name": "test-tim",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "07e264aa"
 }
